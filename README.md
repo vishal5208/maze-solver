@@ -1,4 +1,4 @@
-# Run the command in terminal : python3 scripts/CoreGUI.py
+# Run the command in the terminal : python3 scripts/CoreGUI.py
 
 # Project details 
 
